@@ -9,6 +9,7 @@ namespace OctopusTest
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            //checkout
         }
     }
 }
